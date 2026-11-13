@@ -1,0 +1,8 @@
+streamlit>=1.50
+anthropic>=0.40
+requests>=2.31
+pandas>=2.2
+python-dotenv>=1.0
+pillow>=10.0
+pytesseract>=0.3.10
+streamlit-js-eval>=0.1.7
